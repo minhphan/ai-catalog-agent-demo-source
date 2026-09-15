@@ -26,9 +26,12 @@ import {
  * instructed, both outputs are generated together, then one version is selected
  * for approval to the test store.
  */
-const EAR_CUFF_IMAGE = "/manus-storage/atelier-ops-ear-cuff_6bb19b89.png";
-const HERO_DETAIL_IMAGE = "/manus-storage/atelier-ops-hero-detail_c178d282.png";
-const MARK_IMAGE = "/manus-storage/atelier-ops-mark_6a60e3ab.png";
+// const EAR_CUFF_IMAGE = "/manus-storage/atelier-ops-ear-cuff_6bb19b89.png";
+// const HERO_DETAIL_IMAGE = "/manus-storage/atelier-ops-hero-detail_c178d282.png";
+// const MARK_IMAGE = "/manus-storage/atelier-ops-mark_6a60e3ab.png";
+const EAR_CUFF_IMAGE = "/images/ear-cuff.png";
+const HERO_DETAIL_IMAGE = "/images/hero-detail.png";
+const MARK_IMAGE = "/images/mark.png";
 
 const product = {
   sku: "RING-1023",
